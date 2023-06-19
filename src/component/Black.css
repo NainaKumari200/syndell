@@ -1,0 +1,133 @@
+.dark{
+    width: 1533px;
+    left: -20px;
+    background-attachment: fixed;
+    background-image: url("https://cdn-hnbmp.nitrocdn.com/LElQzOcDEtpKVRMhheBmLbNTSGDyqNjj/assets/images/optimized/rev-01d97d4/wp-content/uploads/2023/05/amazing-shot-high-modern-skyscrapers-city-skyline-night-2.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0px 50px 0px;
+    height: 700px;
+}
+
+.things{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    flex-wrap: wrap;
+    color: white;
+    text-align: center;
+}
+
+.elementor-widget-contar{
+    width: 55%;
+    text-align: center;
+    /* color: #fff; */
+    font-family: "Roboto",Sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+    margin-left: 320px;
+    
+}
+
+
+
+.num{
+    /* background-color: #fff; */
+    width: 100%;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    height: 150px;
+    margin-bottom: 40px;
+}
+
+.has_ae_slider{
+    width: 20%;
+    position: relative;
+    min-height: 1px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+
+.sum{
+    /* background-color: #fff; */
+    width: 100%;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    height: 150px;
+    margin-top: 10px;
+}
+
+.hass_slider{
+    width: 20%;
+    position: relative;
+    min-height: 1px;
+    display: flex;
+    /* background-color: palevioletred; */
+}
+.elementor-populated-a{
+    color: #fff;
+    font-family: "Roboto",Sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.elementor-populated{
+    color: #fff;
+    font-family: "Roboto",Sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+}
+.elementor-counter-number{
+font: 800 40px system-ui;
+padding: 2rem;
+}
+.abcd{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+.elementor-counter-title{
+    width: 187px;
+}
+.elementor-populated {
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    border-color: #fff;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    padding: 10px 10px 10px 10px;
+}
+
+/* .elementor-counter-number-suffix{
+    font: 800 40px system-ui;
+    padding: 0rem; 
+} */
+/* 
+@property--num{
+    syntax:"<integer>";
+    initial-value:0;
+    inherits:false;
+}
+
+.m1{
+
+    animation: counter 5s infinite alternate ease-in-out;
+    counter-reset: num var(--num);
+    font:800 40px system-ui;
+    padding: 2rem;
+
+    
+}
+
+.m1::after{
+    content: counter(num);
+} */

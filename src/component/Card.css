@@ -1,0 +1,37 @@
+.kfc{
+    width: 30%;
+    height: 405px;
+    overflow: hidden;
+    position: relative;
+    padding: 20px 20px;
+    border-radius: 15px;
+    -webkit-box-shadow: 0 10px 15px 0 rgba(0,0,0,.1);
+    box-shadow: 0 10px 15px 0 rgba(0,0,0,.1) !important;
+    margin: 20px;
+    
+}
+
+.elementor-image-box-title{
+    background-color: aliceblue;
+    width: 50%;
+    float: right;
+}
+
+.elementor-image-box-img{
+    width: 50%;
+    float: left;
+}
+
+.elementor-text-edkitor{
+    background-color: palegreen;
+}
+
+.border{
+    margin: 0px 20px 0px 20px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-size{
+    text-align: center;
+    margin-bottom: 60px;
+}

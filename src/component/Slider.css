@@ -1,0 +1,152 @@
+.elementor-widget-container{
+text-align: center;
+border: 0;
+font-style: inherit;
+outline: 0;
+vertical-align: baseline;
+clear: both;
+letter-spacing: .64px;
+box-sizing: border-box;
+padding: 10px;
+font-weight: 800;
+margin: 20px;
+margin-top: 50px;
+color: #010020;
+font-family: "Roboto",Sans-serif;
+font-size: 34px;
+line-height: 44px;
+
+
+
+}
+
+.elementor{
+    text-align: center;
+    padding: 2px;
+    margin-top: 2px;
+    margin-bottom: 1px;
+    font-size: larger;
+}
+
+.bolders{
+    font-weight: bold;
+}
+
+.element-tab-wrapper{
+    background-color:#f5f7fd;
+    width: 25%;
+    float: left;
+    height: 1000px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.element-tab-content{
+    background-color: white;
+    width: 75%;
+    float:right ;
+    height: 1000px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.aligncenter{
+/* position: absolute; */
+height: 700;
+width: 1000;
+/* border: 2px solid black; */
+}
+
+.robotoLight{
+    font-size: 24px;
+}
+
+.industry-types{
+    font-size: 24px;
+}
+
+.elementor-tab-title{
+    color: #000;
+    font-size: 20px;
+    font-family: "Poppins",Sans-serif;
+    line-height: 50px;
+    position: relative;
+    padding: 15px 25px;
+    font-weight: 700;
+    border: solid transparent;
+    cursor: pointer;
+    border-width: 0px;
+}
+
+.element-tab{
+    display: flex;
+    text-align: left;
+    margin: 0px 0px 0px 0px;
+    padding: 30px 10px 0px 10px;
+    
+}
+
+.elementor-tab-one{
+    color: white;
+    background-color: #00155c ;
+    font-size: 20px;
+    font-family: "Poppins",Sans-serif;
+    line-height: 50px;
+    position: relative;
+    padding: 15px 25px;
+    font-weight: 700;
+    border: solid transparent;
+    cursor: pointer;
+    border-width: 0px;
+}
+
+.techstack{
+    width: 100%;
+    background-color: #f5f7fd;
+
+}
+
+.stack-title{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: "Poppins",Sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.tech-stack{
+    display: flex;
+    justify-content: center;
+}
+
+.niche{
+    color: #000;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-style: normal;
+    display: block;
+    border-width: 0px;
+}
+
+.element{
+    font-family: "Poppins",Sans-serif;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.elementor-active{
+    background-color: #00155c !important;
+    color: #fff !important;
+    border-radius: 50px;
+    padding: 20px 30px;
+    border-color: #d5d8dc;
+    border-bottom-style: none;
+}
+
+.elementor-tabs-wrapper{
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+    text-align: left;
+}
